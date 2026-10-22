@@ -1,22 +1,21 @@
-# 👋 Hey there, I'm Santhosh!
+👋 Hey there, I'm Santhosh!
 
-### 💻 Java Developer | Problem Solver | Lifelong Learner
+💻 Java Developer | ☁️ AWS Cloud Enthusiast | 🤖 Generative AI Explorer
 
 Welcome to my GitHub portfolio! 🚀
 
-I'm a developer passionate about building useful applications, exploring new technologies, and turning ideas into working solutions. I enjoy learning how software works behind the scenes and continuously improving my programming skills.
-
-This repository is my digital workspace — a place to showcase my projects, document my learning journey, and share what I build with the developer community.
+I'm passionate about building useful applications, exploring cloud technologies, and continuously improving my software development skills. This repository is my digital workspace — a place to showcase my projects, share what I'm learning, and document my journey as a developer.
 
 ---
 
 ## 🌟 About Me
 
-- 💻 Interested in **Java development and software engineering**.
+- ☕ Interested in Java development and software engineering.
+- ☁️ Exploring AWS cloud computing and cloud-native application concepts.
+- 🤖 Learning about Generative AI and its practical applications.
 - 🧩 Enjoy solving problems and writing clean, maintainable code.
-- 🌱 Continuously learning new tools, frameworks, and development practices.
-- 🛠️ Believe in learning by building real-world projects.
-- 🎯 Goal: Grow as a developer and create software that makes a difference.
+- 🛠️ Believe in learning by building and experimenting.
+- 🎯 Goal: Combine software engineering and cloud technologies to build useful, scalable solutions.
 
 ---
 
@@ -32,6 +31,27 @@ This repository is my digital workspace — a place to showcase my projects, doc
 | Database | [MySQL / PostgreSQL / Other databases] |
 | Tools | Git, GitHub, [Add other tools] |
 | Development Environment | [IntelliJ IDEA / Eclipse / VS Code] |
+
+☁️ AWS Cloud Computing
+ 
+AWS services and concepts I'm exploring:
+
+- Amazon EC2 — Virtual servers and application hosting.
+- Amazon S3 — Object storage and static website hosting.
+- AWS IAM — Users, roles, policies, and access management.
+- Amazon RDS — Managed relational databases.
+- AWS Lambda — Serverless computing fundamentals.
+- Amazon VPC — Cloud networking fundamentals.
+- Amazon CloudWatch — Monitoring, metrics, and logs.
+- AWS CloudFormation — Infrastructure as Code fundamentals.
+- Cloud deployment — Learning how to deploy, configure, and monitor applications in the cloud.
+  
+🤖 Generative AI
+
+- Generative AI fundamentals and use cases.
+- Exploring AI-powered applications and workflows.
+- Learning how AI services can be integrated into software solutions.
+- Responsible and practical use of AI technologies.
 
 ---
 
@@ -66,10 +86,12 @@ Here are some projects I am building or plan to showcase in my portfolio.
 ## 📚 What I'm Learning
 
 - ☕ Writing efficient, maintainable Java applications.
-- 🏗️ Object-Oriented Programming and software design principles.
-- 🌐 Web development and API integration.
+- 🏗️ Object-Oriented Programming, software design, and backend development.
+- 🌐 REST APIs and web application development.
 - 🗄️ Database design and SQL.
-- 🔧 Version control and collaborative development with Git and GitHub.
+- ☁️ AWS architecture, IAM, networking, and application deployment.
+- 🤖 Generative AI concepts and AI application integration.
+- 🔄 Git workflows, CI/CD, and deployment automation.
 
 ---
 
@@ -91,17 +113,17 @@ Here are some projects I am building or plan to showcase in my portfolio.
 
 I'm always interested in learning from other developers, exploring ideas, and collaborating on interesting projects.
 
-- 💼 LinkedIn: [Add your LinkedIn profile URL]
+- 💼 LinkedIn: www.linkedin.com/in/santhosh-s-java-developer-cloud
 - 🌐 Portfolio: [Add your deployed portfolio URL]
-- 📧 Email: [Add your professional email address]
+- 📧 Email: santhoshs612003@gmail.com
 - 🐙 GitHub: [@Santhosh-S-6103](https://github.com/Santhosh-S-6103)
 
 ---
 
 ### ✨ A Little Reminder
 
-> Great software isn't built in a day. It's built one idea, one line of code, and one improvement at a time.
+Great software isn't built in a day. It's built one idea, one line of code, and one improvement at a time.
 
-Thanks for visiting my profile! If you find something interesting, feel free to explore my repositories and follow my journey. ⭐
+Thanks for visiting my portfolio! Feel free to explore my repositories and follow my learning journey. ⭐
 
-**Happy coding! Keep learning. Keep building. Keep growing.** 🚀
+☕ Keep Coding · ☁️ Keep Exploring · 🤖 Keep Innovating
